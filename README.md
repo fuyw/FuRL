@@ -34,6 +34,14 @@ python main.py --config.env_name=door-open-v2-goal-hidden --config.exp_name=furl
 python main.py --config.env_name=door-open-v2-goal-observable --config.exp_name=furl
 ```
 
+## Paper
+
+[**FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning**](https://arxiv.org/pdf/2406.00645)
+
+Yuwei Fu, Haichao Zhang, Di Wu, Wei Xu, Benoit Boulet
+
+*International Conference on Machine Learning* (ICML), 2024
+
 ## Cite
 
 Please cite our work if you find it useful:
