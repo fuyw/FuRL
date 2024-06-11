@@ -47,7 +47,7 @@ Yuwei Fu, Haichao Zhang, Di Wu, Wei Xu, Benoit Boulet
 Please cite our work if you find it useful:
 
 ```txt
-@InProceedings{wang2024,
+@InProceedings{fu2024,
   title = {FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning},
   author = {Yuwei Fu and Haichao Zhang and Di Wu and Wei Xu and Benoit Boulet},
   booktitle = {Proceedings of the 41st International Conference on Machine Learning},
