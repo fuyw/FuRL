@@ -15,7 +15,7 @@ matplotlib
 moviepy
 pillow
 git+https://github.com/Farama-Foundation/Metaworld.git@master#egg=metaworld
-https://storage.googleapis.com/jax-releases/cuda12/jaxlib-0.4.16+cuda12.cudnn89-cp39-cp39-manylinux2014_x86_64.whl
+https://storage.googleapis.com/jax-releases/cuda12/jaxlib-0.4.16+cuda12.cudnn89-cp311-cp311-manylinux2014_x86_64.whl
 jax==0.4.16
 flax==0.7.4
 optax
